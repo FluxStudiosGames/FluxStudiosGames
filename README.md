@@ -10,5 +10,6 @@ Free browser games you can play right now. No download needed.
 | Bug Hunters | A dungeon game: fix the code to open each door. | [▶ Play](https://fluxstudiosgames.github.io/bug-hunters/) |
 | Gyro Bomber | Free arcade bomber: fly the gyrocopter, drop bombs, beat your high score. | [▶ Play](https://fluxstudiosgames.github.io/gyro-bomber/) |
 | Stick Run 2 | Free action platformer: 6 missions, grab the key, reach EXIT. | [▶ Play](https://fluxstudiosgames.github.io/stick-run-2/) |
+| Echo Protocol | First-person horror: explore a station and hear tapes that talk about you. Ages 10+ · PG mild horror | [▶ Play](https://fluxstudiosgames.github.io/echo-protocol/) |
 
 
